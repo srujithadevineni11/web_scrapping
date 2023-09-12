@@ -9,13 +9,19 @@ This Python script is designed for web scraping purposes, specifically for extra
 ### Usage
 
 Installation: Make sure you have Python installed on your system.
+
 Install the necessary libraries using pip: pip install selenium pandas openpyxl
+
 Download the appropriate Chrome WebDriver for your system and update the webdriver.Chrome() line with the correct path to the WebDriver.
+
 Running the Script:Modify the linkedin_username and linkedin_password variables with your LinkedIn login credentials.
+
 Provide an Excel file with a column named "Linkedin Link" containing the LinkedIn profile URLs you want to scrape.
+
 Run the script:python linkedin_scraper.py
 
 The script will scrape data from the LinkedIn profiles and store it in a new Excel file.
+
 Output: The scraped data will be saved in an Excel file named "108_students_data.xlsx."
 
 ### Dependencies
