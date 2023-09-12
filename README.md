@@ -1,18 +1,19 @@
 # web_scrapping projects
-
 This repository contains various web scraping projects using BeautifulSoup and Selenium.
 
-### Flipkart Price Tracker https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/flipkart_webscrapping.py 
+## BeautifulSoup Projects.
+
+### -Flipkart Price Tracker https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/flipkart_webscrapping.py 
 
 This Python script tracks the price of a product on Flipkart and sends an email notification when the price falls below a certain threshold. It allows you to stay updated on price changes and make informed purchase decisions.
 
-### Features
+#### Features
 
 - Monitors the price of a specific product on Flipkart.
 - Sends an email notification when the price drops below a user-defined threshold.
 - Configurable through a simple configuration section at the top of the script.
 
-### Prerequisites
+#### Prerequisites
 
 Before using this script, ensure that you have the following:
 
@@ -20,7 +21,7 @@ Before using this script, ensure that you have the following:
 - The required Python packages (`requests`, `smtplib`, `bs4`) installed. You can install them using `pip`:
   pip install requests smtplib bs4
 
-### Configuration
+#### Configuration
 
 Before running the script, update the following variables in the script with your information:
 
@@ -30,9 +31,8 @@ PASSWORD: Your Gmail app password (generate one from your Google Account setting
 RECEIVER_EMAIL: The email address where you want to receive price drop notifications.
 PRICE_THRESHOLD: The desired price threshold. When the product price falls below this value, you will be notified.
 
-## BeautifulSoup Projects
 
-### Tech News Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Tech%20News%20Scraper.py 
+### -Tech News Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Tech%20News%20Scraper.py 
 
 This project scrapes the latest technology news articles from [news.ycombinator.com](https://news.ycombinator.com/) and finds the highest-rated article based on user ratings.
 
@@ -58,12 +58,12 @@ Before running the script, make sure you have the following Python libraries ins
 pip install beautifulsoup4 requests.
 
 
-### Top 100 Movies List https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project2.py 
+### -Top 100 Movies List https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project2.py 
 output file https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project2_movies.txt 
 
 This project scrapes the list of the top 100 movies to watch from [Empire Online](https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/). It extracts the movie titles and saves them to a text file for easy reference.
 
-### How it Works
+#### How it Works
 
 1. The script sends a GET request to the website to fetch the HTML content of the page.
 
@@ -71,7 +71,7 @@ This project scrapes the list of the top 100 movies to watch from [Empire Online
 
 3. The script stores the movie titles in a text file named "movies.txt," starting from the 1st top-rated movie to the 100th top-rated movie.
 
-### Prerequisites
+#### Prerequisites
 
 Before running the script, make sure you have the following Python libraries installed:
 
@@ -82,10 +82,10 @@ You can install them using pip:
 
 pip install beautifulsoup4 requests
 
-### Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Book%20Information%20Scraper.py 
+### -Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Book%20Information%20Scraper.py 
 This project scrapes book information from [books.toscrape.com](https://books.toscrape.com) and creates a table containing the book name, price, and ratings.
 
-### How it Works
+#### How it Works
 
 1. The script sends a GET request to the website to fetch the HTML content of the page.
 
@@ -95,7 +95,7 @@ This project scrapes book information from [books.toscrape.com](https://books.to
 
 4. The resulting table contains columns for Book Name, Price, and Ratings.
 
-### Prerequisites
+#### Prerequisites
 
 Before running the script, make sure you have the following Python libraries installed:
 
@@ -103,15 +103,15 @@ Before running the script, make sure you have the following Python libraries ins
 - requests
 - Pandas
 
-### You can install them using pip:
+#### You can install them using pip:
 
 pip install beautifulsoup4 requests pandas
 
-### Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Stock%20Information%20Scraper.py
+### -Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Stock%20Information%20Scraper.py
 
 This project scrapes stock information from [MarketWatch](https://www.marketwatch.com/investing/stock/aapl?mod=search_symbol) for a specific stock (in this case, Apple - AAPL). It extracts the stock's current price, closing price, 52-week range (lower and upper), and analyst rating.
 
-### How it Works
+#### How it Works
 
 1. The script sends a GET request to the MarketWatch website to fetch the HTML content of the page.
 
@@ -119,14 +119,14 @@ This project scrapes stock information from [MarketWatch](https://www.marketwatc
 
 3. The script then prints out the extracted information.
 
-### Prerequisites
+#### Prerequisites
 
 Before running the script, make sure you have the following Python libraries installed:
 
 - BeautifulSoup4
 - requests
 
-### You can install them using pip:
+#### You can install them using pip:
 
 pip install beautifulsoup4 requests
 
