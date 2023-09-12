@@ -1,6 +1,6 @@
 # Selenium projects 
 
-## -LinkedIn Data Scraper
+## -LinkedIn Data Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/selenium/linkedin_project_selenium_final.py 
 
 #### Description
 
@@ -38,7 +38,7 @@ Example
 
 This script is intended for educational and research purposes only. Make sure you comply with LinkedIn's terms of service and privacy policy when using it. Be respectful and responsible when scraping data from websites.
 
-## -PDF Downloader for FID4SA Repository
+## -PDF Downloader for FID4SA Repository https://github.com/srujithadevineni11/web_scrapping/blob/main/selenium/npl_pdfs_download_project_final.py
 
 #### Description
 
