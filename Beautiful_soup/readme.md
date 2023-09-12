@@ -1,5 +1,5 @@
 # web_scrapping projects
-This repository contains various web scraping projects using BeautifulSoup and Selenium.
+This repository contains various web scraping projects using BeautifulSoup .
 
 ## BeautifulSoup Projects.
 
