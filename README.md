@@ -2,7 +2,7 @@
 
 This repository contains various web scraping projects using BeautifulSoup and Selenium.
 
-### Flipkart Price Tracker
+### Flipkart Price Tracker https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/flipkart_webscrapping.py 
 
 This Python script tracks the price of a product on Flipkart and sends an email notification when the price falls below a certain threshold. It allows you to stay updated on price changes and make informed purchase decisions.
 
@@ -32,7 +32,7 @@ PRICE_THRESHOLD: The desired price threshold. When the product price falls below
 
 ## BeautifulSoup Projects
 
-### Tech News Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project1.py 
+### Tech News Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Tech%20News%20Scraper.py 
 
 This project scrapes the latest technology news articles from [news.ycombinator.com](https://news.ycombinator.com/) and finds the highest-rated article based on user ratings.
 
@@ -82,8 +82,7 @@ You can install them using pip:
 
 pip install beautifulsoup4 requests
 
-### Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project4.py
-
+### Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Book%20Information%20Scraper.py 
 This project scrapes book information from [books.toscrape.com](https://books.toscrape.com) and creates a table containing the book name, price, and ratings.
 
 ### How it Works
@@ -108,7 +107,7 @@ Before running the script, make sure you have the following Python libraries ins
 
 pip install beautifulsoup4 requests pandas
 
-### Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project5.py 
+### Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Stock%20Information%20Scraper.py
 
 This project scrapes stock information from [MarketWatch](https://www.marketwatch.com/investing/stock/aapl?mod=search_symbol) for a specific stock (in this case, Apple - AAPL). It extracts the stock's current price, closing price, 52-week range (lower and upper), and analyst rating.
 
