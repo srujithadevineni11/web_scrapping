@@ -1,11 +1,13 @@
-# web_scrapping
+# web_scrapping projects
+
 This repository contains various web scraping projects using BeautifulSoup and Selenium.
-BeautifulSoup Projects
+
+# BeautifulSoup Projects
 project-1:https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project1.py  Tech News Scraper
 
 This project scrapes the latest technology news articles from [news.ycombinator.com](https://news.ycombinator.com/) and finds the highest-rated article based on user ratings.
 
-## How it Works
+How it Works
 
 1. The script sends a GET request to the website [news.ycombinator.com](https://news.ycombinator.com/) to fetch the HTML content of the page.
 
@@ -15,7 +17,7 @@ This project scrapes the latest technology news articles from [news.ycombinator.
 
 4. After collecting the data, the script identifies the news article with the highest rating and provides the title and link to that article.
 
-## Prerequisites
+Prerequisites
 
 Before running the script, make sure you have the following Python libraries installed:
 
@@ -25,5 +27,7 @@ Before running the script, make sure you have the following Python libraries ins
 You can install them using pip:
 
 ```bash
-pip install beautifulsoup4 requests
-Selenium Projects.
+pip install beautifulsoup4 requests.
+
+
+project-2:
