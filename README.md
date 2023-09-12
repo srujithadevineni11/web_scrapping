@@ -25,7 +25,6 @@ Before running the script, make sure you have the following Python libraries ins
 - requests
 
 You can install them using pip:
-
 ```bash
 pip install beautifulsoup4 requests.
 
