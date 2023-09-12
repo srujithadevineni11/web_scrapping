@@ -54,7 +54,7 @@ You can install them using pip:
 
 pip install beautifulsoup4 requests
 
-## project-3 Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project4.py
+### project-3 Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project4.py
 
 This project scrapes book information from [books.toscrape.com](https://books.toscrape.com) and creates a table containing the book name, price, and ratings.
 
@@ -80,7 +80,7 @@ Before running the script, make sure you have the following Python libraries ins
 
 pip install beautifulsoup4 requests pandas
 
-## Project4: Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project5.py 
+### Project4: Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project5.py 
 
 This project scrapes stock information from [MarketWatch](https://www.marketwatch.com/investing/stock/aapl?mod=search_symbol) for a specific stock (in this case, Apple - AAPL). It extracts the stock's current price, closing price, 52-week range (lower and upper), and analyst rating.
 
