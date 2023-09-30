@@ -112,6 +112,9 @@ Before running the script, make sure you have the following Python libraries ins
 
 pip install beautifulsoup4 requests pandas
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
 ### -Stock Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Stock%20Information%20Scraper.py
 
 This project scrapes stock information from [MarketWatch](https://www.marketwatch.com/investing/stock/aapl?mod=search_symbol) for a specific stock (in this case, Apple - AAPL). It extracts the stock's current price, closing price, 52-week range (lower and upper), and analyst rating.
