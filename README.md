@@ -30,7 +30,7 @@ EMAIL: Your Gmail email address (used for sending notifications).
 PASSWORD: Your Gmail app password (generate one from your Google Account settings).
 RECEIVER_EMAIL: The email address where you want to receive price drop notifications.
 PRICE_THRESHOLD: The desired price threshold. When the product price falls below this value, you will be notified.
-
+_________________________________________________________________________________________________________________________________________________________________________________
 
 ### -Tech News Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Tech%20News%20Scraper.py 
 
@@ -57,6 +57,8 @@ Before running the script, make sure you have the following Python libraries ins
 
 pip install beautifulsoup4 requests.
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 ### -Top 100 Movies List https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project2.py 
 output file https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/project2_movies.txt 
@@ -81,6 +83,9 @@ Before running the script, make sure you have the following Python libraries ins
 You can install them using pip:
 
 pip install beautifulsoup4 requests
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 ### -Book Information Scraper https://github.com/srujithadevineni11/web_scrapping/blob/main/Beautiful_soup/Book%20Information%20Scraper.py 
 This project scrapes book information from [books.toscrape.com](https://books.toscrape.com) and creates a table containing the book name, price, and ratings.
@@ -130,6 +135,8 @@ Before running the script, make sure you have the following Python libraries ins
 
 pip install beautifulsoup4 requests
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 # Selenium projects 
 
@@ -170,6 +177,9 @@ Example
 #### Disclaimer
 
 This script is intended for educational and research purposes only. Make sure you comply with LinkedIn's terms of service and privacy policy when using it. Be respectful and responsible when scraping data from websites.
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 ## -PDF Downloader for FID4SA Repository https://github.com/srujithadevineni11/web_scrapping/blob/main/selenium/npl_pdfs_download_project_final.py
 
